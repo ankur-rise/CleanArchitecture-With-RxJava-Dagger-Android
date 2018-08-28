@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:recyclerview-v7:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.2.1.aar\693f34228a4b5291dcc203bdf9ddac4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.2.1.aar\9909deeb03aaf6d5846bdaf880f8bdfc\AndroidManifest.xml:17:1-27:12
+MERGED from [com.jakewharton:butterknife:8.0.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\butterknife-8.0.1.aar\416035864175198a4c01c40a31a9ffe2\AndroidManifest.xml:2:1-7:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\0a414330bd9314e171f7319943d4c599\AndroidManifest.xml:15:1-21:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\4c269a4dde91edd7f71069e026884add\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.2.1.aar\028d88bf6e4442df5f6b4b9b15f1efdb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.2.1.aar\e0d894793b95925ccb31889ee468cdbc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\support-v4-23.2.1.aar\fcb9562b22650fc369a0a3b42003ac2d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\ddd7a1f4413e6615d21af80471797712\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\4cb705e90ca2fe8580cf612b0e9078c1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\e16b37ef27556133ff3de4ed982ef8b5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\02914ed383f1927c62431b04f8eeff19\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\c35ae03fdb2006f23884e08059d52381\AndroidManifest.xml:2:1-13:12
+INJECTED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml
+		ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml
+		ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:6:5-26:19
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.2.1.aar\9909deeb03aaf6d5846bdaf880f8bdfc\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.2.1.aar\9909deeb03aaf6d5846bdaf880f8bdfc\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.2.1.aar\028d88bf6e4442df5f6b4b9b15f1efdb\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.2.1.aar\028d88bf6e4442df5f6b4b9b15f1efdb\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.2.1.aar\e0d894793b95925ccb31889ee468cdbc\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.2.1.aar\e0d894793b95925ccb31889ee468cdbc\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\support-v4-23.2.1.aar\fcb9562b22650fc369a0a3b42003ac2d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\support-v4-23.2.1.aar\fcb9562b22650fc369a0a3b42003ac2d\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\c35ae03fdb2006f23884e08059d52381\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\c35ae03fdb2006f23884e08059d52381\AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:11:9-40
+	android:name
+		ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:7:9-42
+activity#news.agoda.com.sample.view.ui.activities.MainActivity
+ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:screenOrientation
+		ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:15:13-49
+	android:label
+		ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:13:13-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:19:27-74
+activity#news.agoda.com.sample.view.ui.activities.NewsDetailActivity
+ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:23:9-25:52
+	android:screenOrientation
+		ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:25:13-49
+	android:name
+		ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml:24:13-66
+uses-sdk
+INJECTED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml
+INJECTED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:recyclerview-v7:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.2.1.aar\693f34228a4b5291dcc203bdf9ddac4b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.2.1.aar\693f34228a4b5291dcc203bdf9ddac4b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.2.1.aar\9909deeb03aaf6d5846bdaf880f8bdfc\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.2.1.aar\9909deeb03aaf6d5846bdaf880f8bdfc\AndroidManifest.xml:21:5-23:78
+MERGED from [com.jakewharton:butterknife:8.0.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\butterknife-8.0.1.aar\416035864175198a4c01c40a31a9ffe2\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.0.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\butterknife-8.0.1.aar\416035864175198a4c01c40a31a9ffe2\AndroidManifest.xml:5:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\0a414330bd9314e171f7319943d4c599\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\0a414330bd9314e171f7319943d4c599\AndroidManifest.xml:19:5-43
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\4c269a4dde91edd7f71069e026884add\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\4c269a4dde91edd7f71069e026884add\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.2.1.aar\028d88bf6e4442df5f6b4b9b15f1efdb\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.2.1.aar\028d88bf6e4442df5f6b4b9b15f1efdb\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.2.1.aar\e0d894793b95925ccb31889ee468cdbc\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.2.1.aar\e0d894793b95925ccb31889ee468cdbc\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\support-v4-23.2.1.aar\fcb9562b22650fc369a0a3b42003ac2d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\support-v4-23.2.1.aar\fcb9562b22650fc369a0a3b42003ac2d\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\ddd7a1f4413e6615d21af80471797712\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\ddd7a1f4413e6615d21af80471797712\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\4cb705e90ca2fe8580cf612b0e9078c1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\4cb705e90ca2fe8580cf612b0e9078c1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\e16b37ef27556133ff3de4ed982ef8b5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\e16b37ef27556133ff3de4ed982ef8b5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\02914ed383f1927c62431b04f8eeff19\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\02914ed383f1927c62431b04f8eeff19\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\c35ae03fdb2006f23884e08059d52381\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\c35ae03fdb2006f23884e08059d52381\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml
+INJECTED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.1] C:\Users\ankurchaudhary\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.2.1.aar\9909deeb03aaf6d5846bdaf880f8bdfc\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml
+		ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml
+		ADDED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Agoda-interview\android-challenge\app\src\main\AndroidManifest.xml

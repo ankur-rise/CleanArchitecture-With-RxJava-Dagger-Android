@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Agoda-interview\\android-challenge\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w500dp-v13\\values-w500dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ankurchaudhary\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.2.1.aar\\9909deeb03aaf6d5846bdaf880f8bdfc\\res\\values-w500dp-v13\\values-w500dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}

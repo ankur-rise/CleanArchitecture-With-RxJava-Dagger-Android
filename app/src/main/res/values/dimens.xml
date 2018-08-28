@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="progressbar_diameter">60dp</dimen>
+    <dimen name="image_size">75dp</dimen>
+    <dimen name="padding_list_item_parent">10dp</dimen>
+    <dimen name="image_width">220dp</dimen>
+    <dimen name="image_height">150dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="text_18">18sp</dimen>
+</resources>

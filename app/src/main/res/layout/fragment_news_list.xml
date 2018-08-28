@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rlNews"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layoutManager="android.support.v7.widget.LinearLayoutManager"
+        android:orientation="vertical"/>
+
+
+    <ProgressBar
+        android:id="@+id/pb"
+        android:layout_width="@dimen/progressbar_diameter"
+        android:layout_height="@dimen/progressbar_diameter"
+        android:layout_gravity="center"
+        android:visibility="gone"/>
+</FrameLayout>
